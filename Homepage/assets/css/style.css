@@ -147,12 +147,12 @@
     border-radius: 5px;
 }
 .chung.bg1{
-    background-image: url("img/Group\ 45.png");
+    background-image: url("/homepage/assets/img/Group\ 45.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .chung.bg2{
-    background-image: url("img/green-chameleon-s9CC2SKySJM-unsplash\ 1.png");
+    background-image: url("/homepage/assets/img/green-chameleon-s9CC2SKySJM-unsplash\ 1.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
